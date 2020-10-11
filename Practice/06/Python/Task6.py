@@ -40,7 +40,7 @@ else:
             if X2 < 0:
                 print('Действительных корней нет')
             else:
-                print('x = ' + str(X2 ** 0.52))
+                print('x = ' + str(X2 ** 0.5))
     else:
         if c == 0:
             print('x1 = 0')    
@@ -58,8 +58,3 @@ else:
                 x2 = (-b - D ** 0.5) / (2 * a)
                 print('x1 = ' + str(x1))
                 print('x2 = ' + str(x2))
-  
-
-
-
-  
