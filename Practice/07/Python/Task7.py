@@ -59,7 +59,7 @@ while True:
  if mode == 1:
     a, b, c = get_ints()
 
-    if a + b < c or a + c < b or b + c < a:
+    if a + b <= c or a + c <= b or b + c <= a:
         print('Треугольник не существует')
         continue
 
@@ -77,7 +77,7 @@ while True:
     b = math.sqrt(math.pow((x1-x3),2)+math.pow((y1-y3),2))
     c = math.sqrt(math.pow((x2-x3),2)+math.pow((y2-y3),2))
 
-    if a + b < c or a + c < b or b + c < a:
+    if a + b <= c or a + c <= b or b + c <= a:
         print('Треугольник не существует')
         continue
 
