@@ -1,0 +1,3 @@
+﻿  Project 23.cpp
+C:\Users\Vsevolod\source\repos\Project 23\Project 23\the_third.h(7,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Project 23.vcxproj -> C:\Users\Vsevolod\source\repos\Project 23\Debug\Project 23.exe
