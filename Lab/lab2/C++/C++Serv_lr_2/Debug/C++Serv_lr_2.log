@@ -1,0 +1,5 @@
+﻿  C++Serv_lr_2.cpp
+C:\Users\Vsevolod\source\repos\lab2\C++Serv_lr_2\C++Serv_lr_2\C++Serv_lr_2.cpp(81,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vsevolod\source\repos\lab2\C++Serv_lr_2\C++Serv_lr_2\C++Serv_lr_2.cpp(151,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vsevolod\source\repos\lab2\C++Serv_lr_2\C++Serv_lr_2\C++Serv_lr_2.cpp(388,35): warning C4018: <: несоответствие типов со знаком и без знака
+  C++Serv_lr_2.vcxproj -> C:\Users\Vsevolod\source\repos\lab2\C++Serv_lr_2\Debug\C++Serv_lr_2.exe

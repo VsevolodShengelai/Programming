@@ -1,0 +1,9 @@
+{
+  "webhooks": [
+    "http://localhost:5000/",
+    "https://webhook.site/d121a8fb-6a79-499f-b5c5-1d901e045e7b",
+    "https://mail.ru",
+    "https://yandex.ru",
+    "https://www.google.ru "
+  ]
+}
