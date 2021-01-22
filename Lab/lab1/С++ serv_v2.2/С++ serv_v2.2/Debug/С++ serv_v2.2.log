@@ -1,0 +1,4 @@
+﻿  С++ serv_v2.2.cpp
+C:\Users\Vsevolod\source\repos\С++ serv_v2.2\С++ serv_v2.2\С++ serv_v2.2.cpp(186,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Vsevolod\source\repos\С++ serv_v2.2\С++ serv_v2.2\С++ serv_v2.2.cpp(49): warning C4715: GetWeather: значение возвращается не при всех путях выполнения
+  С++ serv_v2.2.vcxproj -> C:\Users\Vsevolod\source\repos\С++ serv_v2.2\Debug\С++ serv_v2.2.exe
