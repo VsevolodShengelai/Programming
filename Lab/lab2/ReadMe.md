@@ -77,7 +77,7 @@
 
 *Рисунок 5. Скриншот страницы управления webhook-ами с добавленным webhook-ом клиентского приложения*
 
-[Ссылка на excel-файл заполненный клиентским приложением](https://github.com/VsevolodShengelai/Programming/tree/master/Lab/lab2/Python/data.xlsx "Я ссылка")
+[Ссылка на excel-файл заполненный клиентским приложением](https://github.com/VsevolodShengelai/Programming/tree/master/Lab/lab2/Python/data.xlsx "Я ссылка_")
 
 Полный исходный код серверного приложения
 
