@@ -1,0 +1,5 @@
+﻿  Task_36.cpp
+C:\Users\Vsevolod\source\repos\Task_36\Task_36\Task_36.cpp(80,15): warning C4244: аргумент: преобразование "const double" в "std::streamsize", возможна потеря данных
+C:\Users\Vsevolod\source\repos\Task_36\Task_36\Task_36.cpp(83,15): warning C4244: аргумент: преобразование "const double" в "std::streamsize", возможна потеря данных
+C:\Users\Vsevolod\source\repos\Task_36\Task_36\Task_36.cpp(86,15): warning C4244: аргумент: преобразование "const double" в "std::streamsize", возможна потеря данных
+  Task_36.vcxproj -> C:\Users\Vsevolod\source\repos\Task_36\Debug\Task_36.exe
