@@ -1,0 +1,27 @@
+{
+  "Registered": "NO",
+  "Username": "None",
+  "Password": "None",
+  "list_of_downloaded_quests": [
+    "Затерянный лес",
+    "Капитан Кларк",
+    "Первый бой"
+  ],
+  "list of scores": [
+    {
+      "Затерянный лес": "NO"
+    },
+    {
+      "Капитан Кларк": "NO"
+    },
+    {
+      "Первый бой": "NO"
+    }
+  ],
+  "globalscores": 0,
+  "items": {
+    "zakladka": 4,
+    "oko": 4
+  },
+  "value": 10000
+}
