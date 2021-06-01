@@ -1,0 +1,97 @@
+{
+    "users": {
+        "007": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "Asdf2331",
+            "scores": 0
+        },
+        "1": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "1",
+            "scores": 0
+        },
+        "12": {
+            "config": "{'Registered': 'NO', 'Username': '12', 'Password': '12', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "12",
+            "scores": 0
+        },
+        "123": {
+            "config": "{'Registered': 'NO', 'Username': '123', 'Password': '123', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "123",
+            "scores": 0
+        },
+        "1233": {
+            "config": "{'Registered': 'NO', 'Username': '1233', 'Password': '1233', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "1233",
+            "scores": 0
+        },
+        "12333": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "12333",
+            "scores": 0
+        },
+        "2": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "2",
+            "scores": 0
+        },
+        "22": {
+            "config": "{'Registered': 'NO', 'Username': '22', 'Password': '22', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "22",
+            "scores": 0
+        },
+        "3": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "3",
+            "scores": 0
+        },
+        "333": {
+            "config": "{'Registered': 'YES', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 100, 'oko': 100}, 'value': 100000}",
+            "password": "333",
+            "scores": 0
+        },
+        "4": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "5",
+            "scores": 0
+        },
+        "CaptainNe_Mo": {
+            "config": "{'Registered': 'NO', 'Username': 'Asdf2331', 'Password': 'CaptainNe_Mo', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "Asdf2331",
+            "scores": 0
+        },
+        "Ingener": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "Qwert001",
+            "scores": 0
+        },
+        "Ivan": {
+            "password": "222",
+            "scores": "400"
+        },
+        "Name": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'YES'}, {'Первый бой': 'NO'}], 'globalscores': 400, 'items': {'zakladka': 4, 'oko': 'INF'}, 'value': 5000}",
+            "password": "Asdf00",
+            "scores": 0
+        },
+        "Programist": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 8, 'oko': 'INF'}, 'value': 4660}",
+            "password": "Qwert001",
+            "scores": 0
+        },
+        "Programmer": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 10000}",
+            "password": "Ghjkl007",
+            "scores": 0
+        },
+        "Programmist": {
+            "config": "{'Registered': 'NO', 'Username': 'None', 'Password': 'None', 'list_of_downloaded_quests': ['Затерянный лес', 'Капитан Кларк', 'Первый бой'], 'list of scores': [{'Затерянный лес': 'NO'}, {'Капитан Кларк': 'NO'}, {'Первый бой': 'NO'}], 'globalscores': 0, 'items': {'zakladka': 4, 'oko': 4}, 'value': 100000}",
+            "password": "Qwer001",
+            "scores": 0
+        },
+        "Vladimir": {
+            "password": "111",
+            "scores": "0"
+        }
+    }
+}
