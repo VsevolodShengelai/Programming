@@ -29,8 +29,8 @@
 | Практическая 13 - [[C++]](./Practice/13/C%2B%2B/) [[Python]](./Practice/13/Python/) |  |
 | Практическая 14 - [[C++]](./Practice/14/C%2B%2B/) [[Python]](./Practice/14/Python/) |  |
 | Практическая 15 - [[C++]](./Practice/15/C%2B%2B/) [[Python]](./Practice/15/Python/) |  |
-| Практическая 16 - [[C++]](./Practice/16/C%2B%2B/) [[Python]](./Practice/16/Python/) |  |
-| Практическая 17 - [[C++]](./Practice/17/C%2B%2B/) [[Python]](./Practice/17/Python/) |  |
+| Практическая 16 - |  |
+| Практическая 17 - |  |
 | Практическая 18 - [[Python]](./Practice/18/Python/) |  |
 | Практическая 19 - |  |
 | Практическая 20 - |  |
